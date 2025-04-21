@@ -24,5 +24,5 @@ Welcome to the **RAG Application Evaluation Workshop** repo! This repository con
 ## 📬 Questions?
 
 Feel free to reach out! 
-nadavbarak148@gmail.com
+nadavbarak148@gmail.com \n
 https://www.linkedin.com/in/nadavbarak/
