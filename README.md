@@ -7,10 +7,7 @@ Welcome to the **RAG Application Evaluation Workshop** repo! This repository con
 - **Slides**  
   Workshop presentation slides covering key concepts, evaluation criteria, and step-by-step guidance.
 
-- **Data**  
-  Curated dataset of ~80 annotated samples used during the workshop for evaluation tasks.
-
-- **Solution/**  
+- **Solution**  
   Example implementation of an evaluation pipeline, including baseline code for measuring completeness, relevance, and hallucination detection.
 
 ## 🧠 What You’ll Learn
